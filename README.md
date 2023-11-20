@@ -8,4 +8,4 @@ Il codice di tutti gli *script* contenuti e prodotti da terze parti come *plugin
 
 Le impostazioni di *default* cercano di settare i *font* d'interfaccia e codice alle famiglie "Source Sans" e "Source Code" che possono essere scaricate gratuitamente da [Google Fonts](https://fonts.google.com/?query=source) o facilmente sostituite con quelle che preferite.
 
-Domande, segnalazioni e contributi possono essere inoltrati attraverso l'[area discussioni dedicata](https://github.com/davideriboli/O4A/discussions/categories/area-discussioni-e-messaggi).
+Domande, segnalazioni e contributi possono essere inoltrati attraverso l'[area discussioni dedicata](https://github.com/ABA-Sironi-Codex/O4A/discussions/categories/discussioni-e-contributi).
