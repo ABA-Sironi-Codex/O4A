@@ -1,0 +1,18 @@
+{
+  "defaultViewMode": "preview",
+  "livePreview": false,
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "showInlineTitle": false,
+  "foldHeading": false,
+  "foldIndent": false,
+  "attachmentFolderPath": "888-Allegati-e-Media",
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
