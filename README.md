@@ -6,6 +6,6 @@ I materiali sono organizzati in forma di *vault*: scaricate e installate Obsidia
 
 Il codice di tutti gli *script* contenuti e prodotti da terze parti come *plugin* aggiuntivi, temi ed altre risorse viene controllato ad ogni nuovo *push* ed è da considerarsi affidabile. Ricordatevi però di controllarne l'aggiornamento.
 
-Le impostazioni di *default* cercano di impostare i *font* d'interfaccia e codice alle famiglie "Source Sans" e "Source Code" che possono essere scaricate gratuitamente da [Google Fonts](https://fonts.google.com/?query=source).
+Le impostazioni di *default* cercano di settare i *font* d'interfaccia e codice alle famiglie "Source Sans" e "Source Code" che possono essere scaricate gratuitamente da [Google Fonts](https://fonts.google.com/?query=source) o facilmente sostituite con quelle che preferite.
 
 Domande, segnalazioni e contributi possono essere inoltrati attraverso l'[area discussioni dedicata](https://github.com/davideriboli/O4A/discussions/categories/area-discussioni-e-messaggi).
